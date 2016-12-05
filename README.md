@@ -6,7 +6,8 @@ The m3u is generated daily over on http://tomwsmf.org and draws from the vast co
 
 ## Source of The Code's Base.
 The foundations of this skill were taken from an Amazon ASK AudioPlayer example. If you wish to work with it the following are the steps needed to set up your own project.
-------------------------------------------------------
+
+## skill-sample-nodejs-audio-player
 The Alexa Skills Kit now allows developers to build skills that play long-form audio content on Alexa devices.  This sample project demonstrates how to use the new interfaces for triggering playback of audio and handling audio player input events.
 
 ## How to Run the Sample
@@ -14,7 +15,7 @@ The Alexa Skills Kit now allows developers to build skills that play long-form a
 1. Clone the project and package the skill:
 ```bash
 git clone https://github.com/alexa/skill-sample-nodejs-audio-player.git
-cd skill-sample-nodejs-audio-player/js
+cd /js
 npm install
 zip -r ../audio-player.zip *
 ```
