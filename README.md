@@ -5,6 +5,8 @@ This is an Alexa Skill that reads an m3u file and plays the audio contents via a
 The m3u is generated daily over on http://tomwsmf.org and draws from the vast collection of OTR from Archive.org.
 
 ## Source of The Code's Base.
+The foundations of this skill were taken from an Amazon ASK AudioPlayer example. If you wish to work with it the following are the steps needed to set up your own project.
+------------------------------------------------------
 The Alexa Skills Kit now allows developers to build skills that play long-form audio content on Alexa devices.  This sample project demonstrates how to use the new interfaces for triggering playback of audio and handling audio player input events.
 
 ## How to Run the Sample
