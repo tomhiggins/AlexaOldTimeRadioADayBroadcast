@@ -4,7 +4,7 @@ This is an Alexa Skill that reads an m3u file and plays the audio contents via a
  Listeners can Pause, Start and Stop the broadcasts.  The items that make up the m3u are a handfull of old time radio shows that were broadcast on this day in history.
 The m3u is generated daily over on http://tomwsmf.org and draws from the vast collection of OTR from Archive.org.
 
-## Source of Te Code's Base.
+## Source of The Code's Base.
 The Alexa Skills Kit now allows developers to build skills that play long-form audio content on Alexa devices.  This sample project demonstrates how to use the new interfaces for triggering playback of audio and handling audio player input events.
 
 ## How to Run the Sample
